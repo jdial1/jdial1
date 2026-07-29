@@ -16,7 +16,7 @@
 
 ---
 
-## 🧐 Quick Intro
+##  Quick Intro
 
 I'm a Full-Stack Software Engineer specializing in **Healthcare IT, Laboratory Information Systems (LIS), and high-performance database routing**. During the day, I build mission-critical automated workflows, HL7 Mirth integration pipelines, and sub-millisecond database architectures. 
 
